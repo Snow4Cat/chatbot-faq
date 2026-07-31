@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "categorie": "admitere",
+    "intrebare": "Care sunt conditiile de admitere la facultate?",
+    "raspuns": "Admiterea se face pe baza mediei de la bacalaureat, care are o pondere de 60%, si a notei obtinute la proba scrisa de matematica sau informatica, cu o pondere de 40%. Candidatii care au obtinut premii la olimpiadele nationale de matematica sau informatica sunt admisi fara proba scrisa."
+  },
+  {
+    "id": 2,
+    "categorie": "admitere",
+    "intrebare": "Ce acte sunt necesare pentru inscrierea la admitere?",
+    "raspuns": "Pentru inscriere sunt necesare: diploma de bacalaureat in original, certificatul de nastere in copie legalizata, cartea de identitate in copie, adeverinta medicala tip A5 de la medicul de familie, trei fotografii tip 3x4 si dovada platii taxei de inscriere."
+  },
+  {
+    "id": 3,
+    "categorie": "admitere",
+    "intrebare": "Cand se desfasoara sesiunea de admitere?",
+    "raspuns": "Sesiunea de vara are loc in perioada 10-20 iulie, cu afisarea rezultatelor pe 25 iulie. Sesiunea de toamna, organizata doar daca raman locuri libere, are loc in perioada 5-12 septembrie."
+  },
+  {
+    "id": 4,
+    "categorie": "admitere",
+    "intrebare": "Exista taxa de inscriere la admitere?",
+    "raspuns": "Taxa de inscriere este de 150 lei si se achita online sau la casieria facultatii. Sunt scutiti de taxa candidatii orfani de ambii parinti, cei proveniti din centre de plasament si copiii angajatilor din invatamant."
+  },
+  {
+    "id": 5,
+    "categorie": "admitere",
+    "intrebare": "Pot sa ma inscriu la mai multe specializari?",
+    "raspuns": "Da, va puteti inscrie la mai multe specializari cu un singur dosar, mentionand ordinea preferintelor in fisa de inscriere. Repartizarea se face in ordinea descrescatoare a mediilor si in functie de optiunile exprimate."
+  },
+  {
+    "id": 6,
+    "categorie": "taxe",
+    "intrebare": "Care este taxa de scolarizare anuala?",
+    "raspuns": "Taxa de scolarizare pentru studentii de la buget este zero. Pentru studentii cu taxa, cuantumul este de 4000 lei pe an universitar la programele de licenta si 4500 lei la master."
+  },
+  {
+    "id": 7,
+    "categorie": "taxe",
+    "intrebare": "In cate rate se poate achita taxa de scolarizare?",
+    "raspuns": "Taxa se poate achita integral la inceputul anului universitar sau in patru rate egale, cu termene in octombrie, decembrie, martie si mai. Neplata unei rate in termen de 30 de zile de la scadenta atrage exmatricularea."
+  },
+  {
+    "id": 8,
+    "categorie": "taxe",
+    "intrebare": "Cum pot plati taxa de scolarizare?",
+    "raspuns": "Plata se poate face prin platforma online a universitatii cu cardul, prin transfer bancar in contul facultatii sau direct la casierie. Chitanta trebuie pastrata si incarcata in contul de student."
+  },
+  {
+    "id": 9,
+    "categorie": "burse",
+    "intrebare": "Ce tipuri de burse se acorda studentilor?",
+    "raspuns": "Se acorda burse de performanta, burse de merit, burse sociale si burse speciale pentru activitati sportive sau culturale. Un student poate cumula o bursa de merit cu o bursa sociala."
+  },
+  {
+    "id": 10,
+    "categorie": "burse",
+    "intrebare": "Care este media minima pentru bursa de merit?",
+    "raspuns": "Bursa de merit se acorda studentilor cu media minima 8.50 care au promovat toate examenele din sesiunea anterioara. Clasificarea se face in ordinea descrescatoare a mediilor, in limita fondurilor disponibile."
+  },
+  {
+    "id": 11,
+    "categorie": "burse",
+    "intrebare": "Cand se depun dosarele pentru bursa sociala?",
+    "raspuns": "Dosarele pentru bursa sociala se depun in primele doua saptamani ale fiecarui semestru, la secretariatul facultatii. Sunt necesare adeverinte de venit pentru toti membrii familiei din ultimele trei luni."
+  },
+  {
+    "id": 12,
+    "categorie": "examene",
+    "intrebare": "Cand incepe sesiunea de examene?",
+    "raspuns": "Sesiunea de iarna se desfasoara in perioada 15 ianuarie - 5 februarie, iar sesiunea de vara in perioada 5-25 iunie. Calendarul detaliat este afisat cu cel putin doua saptamani inainte pe site-ul facultatii."
+  },
+  {
+    "id": 13,
+    "categorie": "examene",
+    "intrebare": "Cate restante pot avea ca sa trec in anul urmator?",
+    "raspuns": "Puteti promova in anul urmator daca ati acumulat minimum 40 de credite din cele 60 ale anului. Materiile nepromovate se reporteaza si trebuie recuperate in anul urmator, contra cost."
+  },
+  {
+    "id": 14,
+    "categorie": "examene",
+    "intrebare": "Ce se intampla daca nu ma prezint la un examen?",
+    "raspuns": "Absenta la examen se consemneaza ca neprezentare si nu se considera nota. Materia ramane restanta si poate fi sustinuta in sesiunea de restante, contra taxei de reexaminare."
+  },
+  {
+    "id": 15,
+    "categorie": "examene",
+    "intrebare": "Cum functioneaza sesiunea de restante?",
+    "raspuns": "Sesiunea de restante are loc in septembrie, in perioada 1-15. Va puteti inscrie la maximum patru examene, iar inscrierea se face online cu cel putin cinci zile inainte de data examenului."
+  },
+  {
+    "id": 16,
+    "categorie": "examene",
+    "intrebare": "Pot contesta nota primita la un examen?",
+    "raspuns": "Contestatia se depune in termen de 48 de ore de la afisarea rezultatelor, la secretariat. Se pot contesta doar examenele scrise, nu si cele orale sau practice. Nota rezultata dupa recorectare este definitiva."
+  },
+  {
+    "id": 17,
+    "categorie": "examene",
+    "intrebare": "Cat costa o reexaminare?",
+    "raspuns": "Taxa de reexaminare este de 100 lei pentru fiecare examen. Prima reexaminare din sesiunea de restante pentru studentii de la buget este gratuita."
+  },
+  {
+    "id": 18,
+    "categorie": "cazare",
+    "intrebare": "Cum pot obtine un loc in camin?",
+    "raspuns": "Cererile de cazare se depun online in luna august, pana pe 25. Repartizarea se face in ordinea mediilor, cu prioritate pentru studentii din anul intai cu medii mari si pentru cazurile sociale."
+  },
+  {
+    "id": 19,
+    "categorie": "cazare",
+    "intrebare": "Cat costa cazarea in camin pe luna?",
+    "raspuns": "Tariful lunar este de 350 lei pentru camerele cu trei locuri si 450 lei pentru camerele cu doua locuri. Studentii bursieri beneficiaza de o reducere de 50%."
+  },
+  {
+    "id": 20,
+    "categorie": "cazare",
+    "intrebare": "Ce trebuie sa aduc cu mine la camin?",
+    "raspuns": "La cazare aveti nevoie de carte de identitate, adeverinta de student, adeverinta medicala si doua fotografii. Lenjeria de pat si obiectele personale nu sunt asigurate de camin."
+  },
+  {
+    "id": 21,
+    "categorie": "secretariat",
+    "intrebare": "Care este programul secretariatului?",
+    "raspuns": "Secretariatul lucreaza cu publicul de luni pana joi, intre orele 10:00 si 14:00, si vineri intre 10:00 si 12:00. In perioada sesiunilor programul poate fi prelungit."
+  },
+  {
+    "id": 22,
+    "categorie": "secretariat",
+    "intrebare": "Cum pot obtine o adeverinta de student?",
+    "raspuns": "Adeverinta de student se solicita online din contul de student sau direct la secretariat. Termenul de eliberare este de doua zile lucratoare, iar documentul este gratuit."
+  },
+  {
+    "id": 23,
+    "categorie": "secretariat",
+    "intrebare": "Cum imi schimb datele personale in sistem?",
+    "raspuns": "Modificarea datelor personale, cum ar fi numele sau adresa, se face pe baza unei cereri scrise depuse la secretariat, insotita de documentul justificativ in copie."
+  },
+  {
+    "id": 24,
+    "categorie": "secretariat",
+    "intrebare": "Am pierdut carnetul de student, ce fac?",
+    "raspuns": "In caz de pierdere trebuie sa publicati un anunt de pierdere si sa depuneti o cerere la secretariat impreuna cu dovada anuntului. Eliberarea unui duplicat costa 50 lei si dureaza aproximativ o saptamana."
+  },
+  {
+    "id": 25,
+    "categorie": "practica",
+    "intrebare": "Cate ore de practica sunt obligatorii?",
+    "raspuns": "Practica de specialitate insumeaza 90 de ore, echivalentul a trei saptamani, si se desfasoara de regula in vara dintre anul doi si anul trei. Practica este creditata cu 6 credite."
+  },
+  {
+    "id": 26,
+    "categorie": "practica",
+    "intrebare": "Imi pot alege singur locul de practica?",
+    "raspuns": "Da, puteti alege o companie proprie, cu conditia ca activitatea sa fie relevanta pentru specializare si sa se semneze o conventie de practica intre firma, facultate si student."
+  },
+  {
+    "id": 27,
+    "categorie": "practica",
+    "intrebare": "Ce documente trebuie sa aduc dupa practica?",
+    "raspuns": "Dupa finalizarea practicii trebuie sa predati caietul de practica completat, adeverinta de la firma cu numarul de ore efectuate si fisa de evaluare semnata de tutorele din companie."
+  },
+  {
+    "id": 28,
+    "categorie": "licenta",
+    "intrebare": "Cum imi aleg coordonatorul pentru lucrarea de licenta?",
+    "raspuns": "Alegerea coordonatorului se face in semestrul al doilea din anul doi, prin inscriere pe listele afisate de fiecare cadru didactic. Un profesor poate coordona maximum opt studenti pe an."
+  },
+  {
+    "id": 29,
+    "categorie": "licenta",
+    "intrebare": "Care este termenul limita pentru predarea lucrarii de licenta?",
+    "raspuns": "Lucrarea de licenta se preda in format electronic cu cel putin 15 zile inainte de sustinere, impreuna cu referatul coordonatorului si raportul de similitudine."
+  },
+  {
+    "id": 30,
+    "categorie": "licenta",
+    "intrebare": "Din ce este compus examenul de licenta?",
+    "raspuns": "Examenul de licenta are doua probe: evaluarea cunostintelor fundamentale, sub forma unui test grila, si prezentarea si sustinerea lucrarii de licenta. Media finala este media aritmetica a celor doua note, iar fiecare proba trebuie promovata cu minimum nota 5."
+  },
+  {
+    "id": 31,
+    "categorie": "licenta",
+    "intrebare": "Care este procentul maxim de similitudine acceptat?",
+    "raspuns": "Raportul de similitudine trebuie sa indice un coeficient sub 25% pentru similitudinea globala si sub 5% pentru orice sursa individuala. Depasirea acestor praguri duce la respingerea lucrarii."
+  },
+  {
+    "id": 32,
+    "categorie": "orar",
+    "intrebare": "Unde gasesc orarul?",
+    "raspuns": "Orarul este publicat pe site-ul facultatii, la sectiunea Studenti, si in aplicatia mobila a universitatii. Este actualizat cu o saptamana inainte de inceperea fiecarui semestru."
+  },
+  {
+    "id": 33,
+    "categorie": "orar",
+    "intrebare": "Ce fac daca doua cursuri se suprapun in orar?",
+    "raspuns": "Suprapunerile se semnaleaza la secretariat sau responsabilului de an in primele doua saptamani. In cazul materiilor optionale puteti solicita schimbarea grupei de seminar."
+  },
+  {
+    "id": 34,
+    "categorie": "orar",
+    "intrebare": "Prezenta la cursuri este obligatorie?",
+    "raspuns": "Prezenta la cursuri nu este obligatorie, dar la seminarii si laboratoare este necesara o prezenta de minimum 75% pentru a fi admis in examen."
+  },
+  {
+    "id": 35,
+    "categorie": "biblioteca",
+    "intrebare": "Cum ma inscriu la biblioteca facultatii?",
+    "raspuns": "Inscrierea se face pe baza carnetului de student si a cartii de identitate, la ghiseul bibliotecii. Permisul este gratuit si se valideaza anual."
+  },
+  {
+    "id": 36,
+    "categorie": "biblioteca",
+    "intrebare": "Cate carti pot imprumuta simultan?",
+    "raspuns": "Puteti imprumuta simultan maximum cinci volume, pe o perioada de 14 zile, cu posibilitatea unei prelungiri. Cursurile si manualele de baza se imprumuta doar pe perioada sesiunii."
+  },
+  {
+    "id": 37,
+    "categorie": "it",
+    "intrebare": "Cum obtin contul institutional de email?",
+    "raspuns": "Contul institutional se genereaza automat dupa confirmarea inmatricularii. Datele de acces se primesc pe adresa de email personala declarata la inscriere, in prima saptamana de cursuri."
+  },
+  {
+    "id": 38,
+    "categorie": "it",
+    "intrebare": "Mi-am uitat parola de la contul institutional, ce fac?",
+    "raspuns": "Resetarea parolei se face din pagina de recuperare a contului, folosind adresa de email alternativa sau numarul de telefon inregistrat. Daca acestea nu mai sunt valide, contactati departamentul IT cu carnetul de student."
+  },
+  {
+    "id": 39,
+    "categorie": "it",
+    "intrebare": "Cum ma conectez la reteaua wifi a facultatii?",
+    "raspuns": "Reteaua wifi foloseste autentificare cu contul institutional. Selectati reteaua eduroam si introduceti adresa completa de email institutional si parola asociata."
+  },
+  {
+    "id": 40,
+    "categorie": "mobilitate",
+    "intrebare": "Cum pot aplica pentru o mobilitate Erasmus?",
+    "raspuns": "Selectia Erasmus are loc in luna martie. Sunt necesare media anilor anteriori, un certificat de competenta lingvistica si o scrisoare de motivatie. Pot aplica studentii care au promovat integral anul precedent."
+  }
+]

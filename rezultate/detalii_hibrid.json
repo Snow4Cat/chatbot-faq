@@ -1,0 +1,356 @@
+{
+  "corecte": [
+    {
+      "intrebare": "ce note conteaza ca sa intru la facultate?",
+      "id_asteptat": 1,
+      "ids_returnate": [
+        1,
+        35,
+        34,
+        30,
+        37
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.0404631798074421,
+      "intrebare_top1": "Care sunt conditiile de admitere la facultate?"
+    },
+    {
+      "intrebare": "pot pune mai multe optiuni pe fisa?",
+      "id_asteptat": 5,
+      "ids_returnate": [
+        5,
+        36,
+        33,
+        27,
+        26
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Pot sa ma inscriu la mai multe specializari?"
+    },
+    {
+      "intrebare": "cat platesc pe an daca nu prind buget?",
+      "id_asteptat": 6,
+      "ids_returnate": [
+        6,
+        17,
+        33,
+        28,
+        35
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04058699101004759,
+      "intrebare_top1": "Care este taxa de scolarizare anuala?"
+    },
+    {
+      "intrebare": "sunt dintr-o familie cu venituri mici, ce acte depun si cand?",
+      "id_asteptat": 11,
+      "ids_returnate": [
+        11,
+        2,
+        4,
+        13,
+        6
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.039938556067588324,
+      "intrebare_top1": "Cand se depun dosarele pentru bursa sociala?"
+    },
+    {
+      "intrebare": "cand sunt examenele in ianuarie?",
+      "id_asteptat": 12,
+      "ids_returnate": [
+        12,
+        16,
+        33,
+        32,
+        10
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Cand incepe sesiunea de examene?"
+    },
+    {
+      "intrebare": "cate credite imi trebuie sa promovez anul?",
+      "id_asteptat": 13,
+      "ids_returnate": [
+        13,
+        28,
+        25,
+        33,
+        35
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Cate restante pot avea ca sa trec in anul urmator?"
+    },
+    {
+      "intrebare": "am picat un examen, ce se intampla acum?",
+      "id_asteptat": 14,
+      "ids_returnate": [
+        14,
+        16,
+        17,
+        30,
+        33
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Ce se intampla daca nu ma prezint la un examen?"
+    },
+    {
+      "intrebare": "cat ma costa camera la camin?",
+      "id_asteptat": 19,
+      "ids_returnate": [
+        19,
+        20,
+        18,
+        17,
+        24
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Cat costa cazarea in camin pe luna?"
+    },
+    {
+      "intrebare": "la ce ore e deschis secretariatul?",
+      "id_asteptat": 21,
+      "ids_returnate": [
+        21,
+        11,
+        16,
+        25,
+        33
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.0404631798074421,
+      "intrebare_top1": "Care este programul secretariatului?"
+    },
+    {
+      "intrebare": "am nevoie de un document care sa arate ca sunt student, pentru abonamentul de transport",
+      "id_asteptat": 22,
+      "ids_returnate": [
+        22,
+        35,
+        8,
+        20,
+        24
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.040719196192490745,
+      "intrebare_top1": "Cum pot obtine o adeverinta de student?"
+    },
+    {
+      "intrebare": "mi-am pierdut carnetul",
+      "id_asteptat": 24,
+      "ids_returnate": [
+        24,
+        38,
+        35,
+        37,
+        39
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Am pierdut carnetul de student, ce fac?"
+    },
+    {
+      "intrebare": "cate ore de stagiu trebuie sa fac?",
+      "id_asteptat": 25,
+      "ids_returnate": [
+        25,
+        36,
+        16,
+        27,
+        29
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.04098360655737705,
+      "intrebare_top1": "Cate ore de practica sunt obligatorii?"
+    },
+    {
+      "intrebare": "pot face practica la firma unde lucrez deja?",
+      "id_asteptat": 26,
+      "ids_returnate": [
+        26,
+        27,
+        25,
+        33,
+        29
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.040719196192490745,
+      "intrebare_top1": "Imi pot alege singur locul de practica?"
+    },
+    {
+      "intrebare": "cum imi gasesc un profesor indrumator?",
+      "id_asteptat": 28,
+      "ids_returnate": [
+        28,
+        35,
+        33,
+        26,
+        34
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.040719196192490745,
+      "intrebare_top1": "Cum imi aleg coordonatorul pentru lucrarea de licenta?"
+    },
+    {
+      "intrebare": "cat plagiat e acceptat la lucrare?",
+      "id_asteptat": 31,
+      "ids_returnate": [
+        31,
+        29,
+        34,
+        27,
+        30
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.039830942622950824,
+      "intrebare_top1": "Care este procentul maxim de similitudine acceptat?"
+    },
+    {
+      "intrebare": "e obligatoriu sa vin la toate cursurile?",
+      "id_asteptat": 34,
+      "ids_returnate": [
+        34,
+        33,
+        35,
+        26,
+        28
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.03951553706875459,
+      "intrebare_top1": "Prezenta la cursuri este obligatorie?"
+    },
+    {
+      "intrebare": "nu imi mai stiu parola de la mail",
+      "id_asteptat": 38,
+      "ids_returnate": [
+        38,
+        39,
+        37,
+        35,
+        32
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.040719196192490745,
+      "intrebare_top1": "Mi-am uitat parola de la contul institutional, ce fac?"
+    },
+    {
+      "intrebare": "vreau sa studiez un semestru in strainatate",
+      "id_asteptat": 40,
+      "ids_returnate": [
+        40,
+        32,
+        34,
+        35,
+        11
+      ],
+      "pozitie": 1,
+      "scor_top1": 0.040066564260112646,
+      "intrebare_top1": "Cum pot aplica pentru o mobilitate Erasmus?"
+    }
+  ],
+  "gresite": [
+    {
+      "intrebare": "de ce hartii am nevoie ca sa depun dosarul?",
+      "id_asteptat": 2,
+      "ids_returnate": [
+        20,
+        30,
+        27,
+        36,
+        35
+      ],
+      "pozitie": null,
+      "scor_top1": 0.039566532258064516,
+      "intrebare_top1": "Ce trebuie sa aduc cu mine la camin?"
+    },
+    {
+      "intrebare": "in ce luna sunt inscrierile?",
+      "id_asteptat": 3,
+      "ids_returnate": [
+        18,
+        32,
+        33,
+        40,
+        12
+      ],
+      "pozitie": null,
+      "scor_top1": 0.03813257305773343,
+      "intrebare_top1": "Cum pot obtine un loc in camin?"
+    },
+    {
+      "intrebare": "trebuie sa platesc ceva ca sa ma inscriu?",
+      "id_asteptat": 4,
+      "ids_returnate": [
+        35,
+        38,
+        5,
+        37,
+        26
+      ],
+      "pozitie": null,
+      "scor_top1": 0.04058699101004759,
+      "intrebare_top1": "Cum ma inscriu la biblioteca facultatii?"
+    },
+    {
+      "intrebare": "pot esalona plata?",
+      "id_asteptat": 7,
+      "ids_returnate": [
+        30,
+        36,
+        34,
+        33,
+        26
+      ],
+      "pozitie": null,
+      "scor_top1": 0.0371614301191766,
+      "intrebare_top1": "Din ce este compus examenul de licenta?"
+    },
+    {
+      "intrebare": "ce medie imi trebuie ca sa iau bani de la facultate lunar?",
+      "id_asteptat": 10,
+      "ids_returnate": [
+        19,
+        1,
+        35,
+        8,
+        6
+      ],
+      "pozitie": null,
+      "scor_top1": 0.04020296643247463,
+      "intrebare_top1": "Cat costa cazarea in camin pe luna?"
+    },
+    {
+      "intrebare": "nu sunt multumit de nota, ce pot face?",
+      "id_asteptat": 16,
+      "ids_returnate": [
+        14,
+        16,
+        35,
+        38,
+        33
+      ],
+      "pozitie": 2,
+      "scor_top1": 0.039938556067588324,
+      "intrebare_top1": "Ce se intampla daca nu ma prezint la un examen?"
+    },
+    {
+      "intrebare": "vreau loc la camin, care e procedura?",
+      "id_asteptat": 18,
+      "ids_returnate": [
+        20,
+        18,
+        19,
+        3,
+        15
+      ],
+      "pozitie": 2,
+      "scor_top1": 0.040719196192490745,
+      "intrebare_top1": "Ce trebuie sa aduc cu mine la camin?"
+    }
+  ]
+}

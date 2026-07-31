@@ -1,0 +1,10 @@
+# Obligatorii
+scikit-learn>=1.3
+numpy>=1.24
+streamlit>=1.30
+
+# Necesar pentru cautarea semantica (descarca modelul la prima rulare)
+sentence-transformers>=2.5
+
+# Optional: indexare vectoriala, folosita cu argumentul --faiss
+# faiss-cpu>=1.7

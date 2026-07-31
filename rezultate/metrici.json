@@ -1,0 +1,20 @@
+{
+  "Cuvinte-cheie (TF-IDF)": {
+    "recall@1": 0.44,
+    "recall@3": 0.76,
+    "recall@5": 0.76,
+    "MRR": 0.58
+  },
+  "Semantic (embeddings)": {
+    "recall@1": 0.6,
+    "recall@3": 0.8,
+    "recall@5": 0.92,
+    "MRR": 0.7233333333333333
+  },
+  "Hibrid (RRF)": {
+    "recall@1": 0.72,
+    "recall@3": 0.8,
+    "recall@5": 0.8,
+    "MRR": 0.76
+  }
+}
