@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/embeddings.pkl
+*.egg-info/
+.DS_Store
